@@ -1,0 +1,2 @@
+<!--components/test.wxml-->
+<view class="a" bindtap="onTap">{{a}}</view>

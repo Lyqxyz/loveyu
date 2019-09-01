@@ -1,0 +1,6 @@
+/* components/test.wxss */
+.a{
+
+  width: 200rpx;
+  background: red;
+}
