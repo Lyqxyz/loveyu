@@ -1,4 +1,6 @@
 <!--index.wxml-->
 <view class="container">
-  <test a="5" bindMyEvent="MyEvent"/>
+  <scenery/>
+  <scenery/>
+  <scenery/>
 </view>

@@ -1,0 +1,64 @@
+/* components/scenery.wxss */
+.con{
+  display: flex;
+  flex-direction: column;
+  margin: 5rpx;
+  padding: 10rpx;
+}
+.title{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  /* border: 1rpx solid red; */
+  line-height: 50rpx;
+  margin-bottom: 15rpx;
+}
+.part{
+  display: flex;
+  justify-content: flex-start;
+  vertical-align: baseline;
+}
+.name{
+  font-family: "微软雅黑";
+  font-size: 37rpx;
+  font-weight: bold;
+  margin-left: 20rpx;
+}
+.level{
+  font-size: 29rpx;
+  margin-left: 15rpx;
+  background:linear-gradient(45deg,#FFEB3B,#E91E63);
+  border-radius: 40rpx 40rpx 40rpx 0; 
+}
+.more image{
+   width: 30rpx;
+   height: 30rpx;
+}
+.img{
+  display: flex;
+  justify-content: space-between;
+  border-radius: 5rpx;
+}
+.img image{
+  height: 200rpx;
+  margin: 2rpx;
+}
+.introduction{
+  background-color: #f3f5f7;
+  text-indent: 2em;
+  margin-top: 15rpx;
+  border-radius: 5rpx;
+}
+.introduction scroll-view{
+  height: 314rpx;
+}
+.people{
+  font-size: 20rpx;
+  color: #8a8686;
+  margin-bottom: 15rpx;
+}
+.num{
+  color: red;
+  font-size: 25rpx;
+  margin: 0 5rpx;
+}

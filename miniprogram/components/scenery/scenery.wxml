@@ -1,0 +1,28 @@
+<view class="con">
+  <view class="title">
+    <view class="part">
+      <view class="level">TOP 1</view>
+      <view class="name">洪崖洞</view>
+    </view>
+    <view class="more">
+      <image src="/images/r.png"></image>
+    </view>
+  </view>
+  <view class="people">
+    最近
+    <text class="num">14564</text>浏览过</view>
+  <view class="img">
+    <image src="/images/1.jpg"></image>
+    <image src="/images/2.jpg"></image>
+    <image src="/images/3.jpg"></image>
+  </view>
+  <view class="introduction">
+    <scroll-view scroll-y>
+      <text>洪崖洞，原名洪崖门，是古重庆城门之一
+    ，位于重庆市渝中区解放碑沧白路，地处长江、嘉陵江两江交汇的滨江地带，是兼具观光旅游、
+      休闲度假等功能的旅游区。以其巴渝传统建筑和于重庆市渝中区解放碑沧白路，地处长江、嘉陵江两江交汇的滨江地带，是兼具观光旅游、
+      休闲度假等功能的旅游区。以其巴渝传统建筑和于重庆市渝中区解放碑沧白路，地处长江、嘉陵江两江交汇的滨江地带，是兼具观光旅游、
+      休闲度假等功能的旅游区。以其巴渝传统建筑和</text>
+    </scroll-view>
+  </view>
+</view>

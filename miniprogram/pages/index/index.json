@@ -1,3 +1,6 @@
 {
-  "usingComponents": {"test":"/components/test/test"}
+  "usingComponents": {
+    "test":"/components/test/test",
+    "scenery":"/components/scenery/scenery"
+    }
 }

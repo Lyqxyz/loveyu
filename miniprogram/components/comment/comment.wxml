@@ -1,0 +1,32 @@
+<view class="con-comment">
+
+  <view class="comment-head">
+
+    <image src="/images/1.jpg"></image>
+    <view class="name">我是小虎牙</view>
+    <view class="xin">
+      <image src="/images/xin.png" class="grade"></image>
+      <image src="/images/xin.png" class="grade"></image>
+      <image src="/images/xin.png" class="grade"></image>
+      <image src="/images/xin.png" class="grade"></image>
+    </view>
+    <view class="time">2019.4.6</view>
+  </view>
+  <view class="comment-detail">
+    <scroll-view scroll-y style="height:250rpx" scroll-with-animation>
+      <text>例如，在网页上要指定一种颜色，就要使用RGB模式来确定，方法是分别指定R/G/B，也就是红/绿/蓝三种基色的强度，通常规定，每一种颜色强度最低为 0，最高为255，并通常都以16进制数值表示，那么255对应于十六进制就是FF，并把三个数值依次并列起来 ，以#开头。</text>
+    </scroll-view>
+  </view>
+
+  <view class="comment-pv">
+     <scroll-view scroll-x class="pv-x" scroll-with-animation>
+        <video poster="/images/1.jpg" bindplay="play" id="v"></video>
+        <image src="/images/1.jpg"></image>
+        <image src="/images/2.jpg"></image>
+        <image src="/images/3.jpg"></image>
+        <image src="/images/3.jpg"></image>
+        <image src="/images/3.jpg"></image>
+        <image src="/images/3.jpg"></image>
+     </scroll-view>
+  </view>
+</view>
