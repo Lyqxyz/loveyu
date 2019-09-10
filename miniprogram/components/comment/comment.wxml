@@ -3,7 +3,7 @@
   <view class="comment-head">
 
     <image src="/images/1.jpg"></image>
-    <view class="name">我是小虎牙</view>
+    <view class="name">我是小虎牙1</view>
     <view class="xin">
       <image src="/images/xin.png" class="grade"></image>
       <image src="/images/xin.png" class="grade"></image>
